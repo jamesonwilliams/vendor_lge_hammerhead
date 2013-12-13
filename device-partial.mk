@@ -48,4 +48,14 @@ PRODUCT_COPY_FILES := \
     vendor/lge/hammerhead/proprietary/libvss_nv_core.so:system/vendor/lib/libvss_nv_core.so:lge \
     vendor/lge/hammerhead/proprietary/libvss_nv_idl.so:system/vendor/lib/libvss_nv_idl.so:lge \
     vendor/lge/hammerhead/proprietary/libvss_nv_iface.so:system/vendor/lib/libvss_nv_iface.so:lge \
+    vendor/lge/hammerhead/proprietary/OmaDmclient.apk:system/app/OmaDmclient.apk:lge \
+    vendor/lge/hammerhead/proprietary/DxHDCP.cfg:system/etc/DxHDCP.cfg:lge \
+    vendor/lge/hammerhead/proprietary/dxhdcp2.b00:system/vendor/firmware/discretix/dxhdcp2.b00:lge \
+    vendor/lge/hammerhead/proprietary/dxhdcp2.b01:system/vendor/firmware/discretix/dxhdcp2.b01:lge \
+    vendor/lge/hammerhead/proprietary/dxhdcp2.b02:system/vendor/firmware/discretix/dxhdcp2.b02:lge \
+    vendor/lge/hammerhead/proprietary/dxhdcp2.b03:system/vendor/firmware/discretix/dxhdcp2.b03:lge \
+    vendor/lge/hammerhead/proprietary/dxhdcp2.mdt:system/vendor/firmware/discretix/dxhdcp2.mdt:lge \
+    vendor/lge/hammerhead/proprietary/libDxHdcp.so:system/vendor/lib/libDxHdcp.so:lge \
+    vendor/lge/hammerhead/proprietary/libvdmengine.so:system/vendor/lib/libvdmengine.so:lge \
+    vendor/lge/hammerhead/proprietary/libvdmfumo.so:system/vendor/lib/libvdmfumo.so:lge \
 
